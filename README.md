@@ -1,16 +1,11 @@
-# simpleapp
+# CurrencyApp
 
-A new Flutter project.
+![2020 12 08-15 57_01](https://user-images.githubusercontent.com/116195220/199504345-c9762715-cb83-4663-967a-9d9edfc2d414.png)
 
-## Getting Started
+![2020 12 08-15 57_02](https://user-images.githubusercontent.com/116195220/199504354-763d48c0-5c37-42ab-80ff-23b01f26ae96.png)
 
-This project is a starting point for a Flutter application.
+![2020 12 08-15 57_03](https://user-images.githubusercontent.com/116195220/199504359-3bb64796-c7a1-4077-8351-f96db9298540.png)
 
-A few resources to get you started if this is your first Flutter project:
+![2020 12 08-15 57_04](https://user-images.githubusercontent.com/116195220/199504366-bcc0da7b-bdef-4109-a510-38044129574b.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2020 12 08-15 58](https://user-images.githubusercontent.com/116195220/199504369-906673d1-8d84-4858-aaaf-20aa3eca9c49.png)
